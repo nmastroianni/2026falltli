@@ -46,7 +46,7 @@ export default function RootLayout({
           </Link>
           <div className="flex-1 flex justify-end">
             <Button asChild className="hidden md:inline">
-              <Link href="https://forms.office.com/r/EEMnVePsfs" className="">
+              <Link href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=eX75-2KXzEedROnZnhy0bhYla4QZRjpPqhv7lh-qu0pUQkNZVE5HTDJPMkFaQkU2OUYwN1JIOVg3SC4u" className="">
                 <Lightbulb className="size-4 inline mr-2 mb-1" />
                 Submit a Proposal
               </Link>
